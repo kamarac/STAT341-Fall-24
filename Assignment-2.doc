@@ -1,0 +1,17 @@
+# Variance...
+
+# Definition: is the measure of variability; measures the spread between numbers in a data set & how far each is from the mean (average)
+# Formula: var(x)
+
+#Standard Deviation...
+
+# Definition:  measure of how far a group of #'s is from the mean; measures how far apart #'s are in a data set 
+# ^ spread , ^ SD
+# Formula: sd(x) ... sq. root of variance 
+
+# Key Differences & formula explaination: . 
+
+# SD is the square root of variance, so it can be larger when variance < 1 & smaller when variance > 1.
+# The variance formula calculates the avg. of squared differneces between the mean & each data point. The mean is subtracted from each data point; square the result; avg. the squared differneces. The final result is the measure of how many data points vary from the mean. Typ. expressed in units squared or a % (quantifies the amount of data points)
+
+
